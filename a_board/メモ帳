@@ -1,0 +1,9 @@
+layout hemlのレイアウト
+index トップページ
+post 投稿ページ
+post_list 投稿一覧ページ
+login ログインページ
+good グッド一覧ページ
+edit 編集ページ
+create_user 新規アカウント登録ページ
+comment コメント投稿ページ
