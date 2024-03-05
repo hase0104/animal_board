@@ -1,4 +1,5 @@
 from django.shortcuts import render
+<<<<<<< HEAD
 from django.shortcuts import redirect
 
 from django.core.paginator import Paginator
@@ -64,3 +65,7 @@ def good(request, good_id):
 
 
 # Create your views here
+=======
+
+# Create your views here.
+>>>>>>> origin/main
