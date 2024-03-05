@@ -4,7 +4,7 @@ from django.contrib.auth.models import User
 # Category
 class Category(models.Model):
     category = models.TextField(max_length=100)
-
+ 
 <<<<<<< HEAD
     def __str__(self):
         return f"{str(self.category)}"
