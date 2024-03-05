@@ -63,4 +63,4 @@ def good(request, good_id):
 #comment
 
 
-# Create your views here.
+# Create your views here
